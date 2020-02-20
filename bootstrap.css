@@ -1,0 +1,59 @@
+.abuelo{
+    height: 900%;
+    width: 100%;
+    display: flex;
+    align-content: center;
+}
+
+    .caja1{
+        display: flex;
+        height: 400px;
+        width: 33%;
+        background: blue;
+        margin-right: 10px;
+        justify-content: center;
+        align-items: center;
+ 
+        
+    }
+    .caja2{
+        display: flex;
+        height: 400px;
+        width: 33%;
+        background: blue;
+        margin-right: 10px;
+        justify-content: center;
+        align-items: center;
+     
+        
+    }
+    .caja3{
+        display: flex;
+        height: 400px;
+        width: 33%;
+        background: blue;
+        margin-right: 10px;
+        justify-content: center;
+        align-items: center;
+    }
+    .mini1{
+        background: black;
+        display: flex;
+        height: 100px;
+        width: 100px;
+        margin-right: 10px;
+    }
+    .mini2{
+        background: black;
+        display: flex;
+        height: 10rem;
+        width: 100px;
+        margin-right: 10px;
+    }
+    .mini3{
+        background: black;
+        display: flex;
+        height: 100px;
+        width: 40em;
+        margin-right: 10px;
+    }
